@@ -2,10 +2,11 @@
 #include<string>
 using namespace std;
 int main(){
-    string str1, str2, str3;
-    str1 = "prep";
-    str2 = "bytes";
-    str3 = "RFunction";
-    cout<<"first occurence of es in str2:- "<<str2.find("es");
+    int n, i=1, x=1;
+    cin>>n;
+    for(i=1;i<n;i++){
+        x=x*i;
+    }
+    cout<<x;
     return 0;
 }
