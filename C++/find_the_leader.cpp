@@ -5,12 +5,21 @@ int main(){
     int t;
     cin>>t;
     for(t;t>0;t--){
-        long long int n;
+        int n;
         cin>>n;
-        long long int arr[n];
-        for(long long int i=0;i<n;i++){
+        int arr[n];
+        for(int i=0;i<n;i++){
             cin>>arr[i];
         }
-        
+        int maxRight=arr[n-1];
+        cout<<arr[n-1]<<" ";
+        for(int i=n-2;i>=0;i--){
+            if(maxRight <= arr[i]){
+                maxRight = arr[i];
+                cout<<maxRight<<" ";
+            }
+        }
+        cout<<endl;
     }
+    return 0;
 }
