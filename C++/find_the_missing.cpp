@@ -7,7 +7,7 @@ long long int getMissingNo(long long int a[], long long int n)
     long long int sum=0;
     for (long long int i = 0; i < n; i++) 
         sum += a[i];
-        total = total - sum; 
+    total = total - sum; 
     cout<<total<<endl;
     return 0;
 }
