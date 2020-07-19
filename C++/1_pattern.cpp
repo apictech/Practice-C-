@@ -6,10 +6,7 @@ int main(){
     for(i=1;i<=5;i++){
         cout<<" ";
         for(j=1;j<=i;j++){
-            cout<<n
-            
-            
-            <<" ";
+            cout<<n<<" ";
         }
         cout<<"\n";
     }

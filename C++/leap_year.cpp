@@ -7,10 +7,10 @@ int main(){
         cin>>n;
 
         if((n%400 == 0) || (n%4 == 0 && n%100 != 0)){
-            cout<<"Yes";
+            cout<<"Yes"<<endl;
         }
         else{
-            cout<<"No";
+            cout<<"No"<<endl;
         }
         t--;
     } 
