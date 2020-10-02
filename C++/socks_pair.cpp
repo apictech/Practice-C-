@@ -40,7 +40,7 @@ int main(){
     for(i=t;t>0;t--){
         cin>>n;
         count=n+1;
-        cout<<count;
+        cout<<count<<endl;
     }
     
     return 0;
