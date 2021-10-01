@@ -10,7 +10,7 @@ int main(){
     cin>>t;
     while(t != 0)
     {   
-        int a,b;
+        int a,b,c;
         cout<<"Enter values of a and b:- ";
         cin>>a >>b;
         int c = a + b;
