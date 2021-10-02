@@ -1,12 +1,7 @@
-
-
-##########################################################################################################################
 # IF YOU WANT TO CONTRIBUTE IN THIS REPO THEN YOU HAVE TO FOLLOW THESE RULES                                             # 
 ## AS THESE ARE MANDATORY RULES THAT YOU HAVE TO FOLLOW.
 ### WE HAVE SPECIALLY DESIGN THIS REPOSITORY FOR BEGINNER WHO HAVE STARTED PROGRAMMING EARLIER.
-##########################################################################################################################
 
-############################################################################################################################
-#  1. EVERYONE IS WELCOME TO CONTRIBUTE IN THIS REPOSITORY TO MAKE A COLLECTION OF C++ QUESTIONS FOR COMPETITIVE CODING.
-#  2. IF YOU SEEN ANY PROBLEM IN OUR CODE THEN YOU CAN TO PROPOSE CHANGES AND THEN WE CHECK IT AND MERGE YOUR PULL REQUEST.
-###########################################################################################################################
+#Rules:-
+1. EVERYONE IS WELCOME TO CONTRIBUTE IN THIS REPOSITORY TO MAKE A COLLECTION OF C++ QUESTIONS FOR COMPETITIVE CODING.
+2. IF YOU SEEN ANY PROBLEM IN OUR CODE THEN YOU CAN TO PROPOSE CHANGES AND THEN WE CHECK IT AND MERGE YOUR PULL REQUEST.
