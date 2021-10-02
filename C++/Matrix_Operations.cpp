@@ -5,7 +5,7 @@ int main(){
     int m, n;
     cin>>m>>n;
     int arr1[m][n], arr2[m][n], arr3[m][n];
-
+/*using this for loop to take input for matrix element*/
     for(int i=0;i<m;i++){
         for(int j=0;j<n;j++){
             cin>>arr1[i][j];
