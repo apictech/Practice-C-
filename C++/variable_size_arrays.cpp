@@ -1,3 +1,6 @@
+// Code for variable size arrays.
+
+
 // #include <cmath>
 // #include <cstdio>
 // #include <vector>
