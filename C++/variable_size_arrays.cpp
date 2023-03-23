@@ -12,7 +12,6 @@
 //         cin>>input;
 //         v.push_back(input);
 //     }
-//     // cout<<endl;
 //     return 0;
 // }
 

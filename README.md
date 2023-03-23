@@ -5,4 +5,4 @@ This repository will be updated by all the best questions of Data Structures and
 
 You all are invited to contribute in this repository with the questions have relevent comment and also have proper explanation.
 
-The only bottlenech is we will accept questions in C++.
+The only bottleneck is we will accept questions in C++.
