@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int quat, t;
-    float price, disc;
+    int t;
+    float quat, price, disc;
     cin>>t;
     for(t;t>0;t--){
         cin>>quat;
@@ -13,9 +13,5 @@ int main(){
             price =  price - price/100 * 20;
         }
         printf("%.2f",price);
-        
-
     }
-   
-
 }

@@ -5,7 +5,7 @@ int min(int x, int y) {
 } 
 
 int calc_angle(double h, double m) { 
-	if (h <0 || m < 0 || h >12 || m > 60) 
+	if (h < 0 || m < 0 || h > 12 || m > 60) 
 		printf("Wrong input"); 
 
 	if (h == 12) h = 0; 
@@ -13,7 +13,7 @@ int calc_angle(double h, double m) {
 
 	int hour_angle = 0.5 * (h * 60 + m); 
 	int minute_angle = 6 * m; 
- 
+
 	int angle = abs(hour_angle - minute_angle); 
 
 	angle = min(360 - angle, angle); 
@@ -30,6 +30,6 @@ int main(){
         cin>>m;
         cout<<"\n";
         cout<<calc_angle(h,m)<<endl;
-       }
-       return 0;
+    }
+    return 0;
 }
