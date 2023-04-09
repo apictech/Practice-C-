@@ -1,14 +1,16 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int i,j,n;
+    // variable declared..
+    int i,k,n;
+    // take input n ..
     cin>>n;
+    // use loop for counting ...
     for(i=1;i<=5;i++){
         cout<<" ";
-        for(j=1;j<=i;j++){
+        for(k=1;k<=i;k++){
             cout<<n<<" ";
         }
-        cout<<"\n";
     }
     return 0;
 }
