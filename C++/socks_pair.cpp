@@ -5,9 +5,9 @@ T
 . 
 Next 
 T
- lines contain an integer 
+lines contain an integer 
 N
- which indicates the total pairs of socks present in the drawer.
+which indicates the total pairs of socks present in the drawer.
 
 Output format
 Print the number of draws PrepBuddy will have to make in the worst case.
@@ -29,7 +29,7 @@ Input                   Output
 
 Sample Test case Explanation
 In the first test case, there is just 1 pair of socks i.e 2 socks in her drawer,
- so she has to remove both to get a pair, therefore the output is 2.
+so she has to remove both to get a pair, therefore the output is 2.
 */
 
 #include<iostream>
